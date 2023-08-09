@@ -1,5 +1,5 @@
 
-## RAM-share reproduction from ppwwyyxx in Lightning
+## RAM-share reproduction in Lightning
 
 Reproduction of https://github.com/ppwwyyxx/RAM-multiprocess-dataloader in Lightning.
 Worker PIDs are shared through a file.
